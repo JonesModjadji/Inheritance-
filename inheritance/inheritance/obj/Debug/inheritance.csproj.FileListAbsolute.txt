@@ -1,0 +1,12 @@
+G:\Jones\inheritance\inheritance\bin\Debug\inheritance.exe.config
+G:\Jones\inheritance\inheritance\obj\Debug\inheritance.csprojResolveAssemblyReference.cache
+G:\Jones\inheritance\inheritance\obj\Debug\inheritance.Form1.resources
+G:\Jones\inheritance\inheritance\obj\Debug\inheritance.Properties.Resources.resources
+G:\Jones\inheritance\inheritance\obj\Debug\inheritance.csproj.GenerateResource.Cache
+G:\Jones\inheritance\inheritance\bin\Debug\inheritance.exe
+G:\Jones\inheritance\inheritance\bin\Debug\inheritance.pdb
+G:\Jones\inheritance\inheritance\obj\Debug\inheritance.exe
+G:\Jones\inheritance\inheritance\obj\Debug\inheritance.pdb
+C:\Desktop\inheritance\inheritance\bin\Debug\inheritance.exe.config
+C:\Desktop\inheritance\inheritance\obj\Debug\inheritance.exe
+C:\Desktop\inheritance\inheritance\obj\Debug\inheritance.pdb
