@@ -10,3 +10,12 @@ G:\Jones\inheritance\inheritance\obj\Debug\inheritance.pdb
 C:\Desktop\inheritance\inheritance\bin\Debug\inheritance.exe.config
 C:\Desktop\inheritance\inheritance\obj\Debug\inheritance.exe
 C:\Desktop\inheritance\inheritance\obj\Debug\inheritance.pdb
+C:\Users\Modjadji\Documents\GitHub\Inheritance-\inheritance\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\Modjadji\Documents\GitHub\Inheritance-\inheritance\inheritance\obj\Debug\inheritance.exe
+C:\Users\Modjadji\Documents\GitHub\Inheritance-\inheritance\inheritance\obj\Debug\inheritance.pdb
+C:\Users\Modjadji\Documents\GitHub\Inheritance-\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\Users\Modjadji\Documents\GitHub\Inheritance-\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\Users\Modjadji\Documents\GitHub\Inheritance-\inheritance\inheritance\obj\Debug\inheritance.csprojResolveAssemblyReference.cache
+C:\Users\Modjadji\Documents\GitHub\Inheritance-\inheritance\inheritance\obj\Debug\inheritance.Form1.resources
+C:\Users\Modjadji\Documents\GitHub\Inheritance-\inheritance\inheritance\obj\Debug\inheritance.Properties.Resources.resources
+C:\Users\Modjadji\Documents\GitHub\Inheritance-\inheritance\inheritance\obj\Debug\inheritance.csproj.GenerateResource.Cache
